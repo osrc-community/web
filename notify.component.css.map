@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/utils/components/notify/notify.component.scss"],
+  "sourcesContent": [".notification {\n  opacity: 1;\n  animation: RightToLeft 0.75s ease-in alternate;\n}\n\n@keyframes RightToLeft {\n  0%   {\n    transform: translateX(100%);\n  }\n  100% {\n    transform: translateX(0%);\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,aAAA,YAAA,MAAA,QAAA;;AAGF,WAHE;AAIA;AACE,eAAA,WAAA;;AAEF;AACE,eAAA,WAAA;;;",
+  "names": []
+}

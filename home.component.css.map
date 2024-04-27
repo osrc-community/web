@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/home/home.component.scss"],
+  "sourcesContent": [".background {\n  background-image: url('/assets/images/components/home/background.jpg'); //TODO Replace background image with free one\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,oBAAA;;",
+  "names": []
+}
